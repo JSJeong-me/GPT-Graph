@@ -1,7 +1,6 @@
 # GPT-DB
 DB
 
-
 Strategies
 ------
     Typical RAG:
