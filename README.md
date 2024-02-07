@@ -1,5 +1,5 @@
-# GPT-DB
-DB
+# GPT-Graph
+
 
 Strategies
 ------
