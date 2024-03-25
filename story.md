@@ -4,8 +4,8 @@
 ## Chapter 1: The Mysterious Forest
 ![whiskers_and_flappy_reach_the](https://github.com/JSJeong-me/GPT-Graph/assets/54794815/faeb6f4b-288e-4888-9806-8cda51a8b84f)
 
-
 Whiskers, a curious and brave young cat, ventured beyond his home into the mysterious forest. There, he met Mr. Hoots, an old and wise owl, perched upon an ancient oak. Mr. Hoots, with his spectacles perched on his beak, warned Whiskers of the wonders and challenges lying ahead. Despite the warning, Whiskers' adventurous spirit was undeterred. He promised to tread carefully but was determined to uncover the forest's secrets. His journey into the unknown had just begun, and his heart raced with excitement for the adventures that awaited.
+![whiskers_and_flappy_reach_the](https://github.com/JSJeong-me/GPT-Graph/assets/54794815/8b258d78-831b-4f93-b8a0-c9793fabf188)
 
 ## Chapter 2: The River That Sings
 ![Chapter 2 Image]("C:\Users\JoonSooJeong\Desktop\Whiskers\deeper_into_the_forest_whiskers.png")
