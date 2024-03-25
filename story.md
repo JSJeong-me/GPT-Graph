@@ -2,7 +2,7 @@
 # The Adventure of Whiskers and Friends
 
 ## Chapter 1: The Mysterious Forest
-![Chapter 1 Image]![whiskers_and_flappy_reach_the](https://github.com/JSJeong-me/GPT-Graph/assets/54794815/0e4fee1f-c632-41cf-9065-a6a45e7e250a)
+![whiskers_and_flappy_reach_the](https://github.com/JSJeong-me/GPT-Graph/assets/54794815/0e4fee1f-c632-41cf-9065-a6a45e7e250a)
 
 Whiskers, a curious and brave young cat, ventured beyond his home into the mysterious forest. There, he met Mr. Hoots, an old and wise owl, perched upon an ancient oak. Mr. Hoots, with his spectacles perched on his beak, warned Whiskers of the wonders and challenges lying ahead. Despite the warning, Whiskers' adventurous spirit was undeterred. He promised to tread carefully but was determined to uncover the forest's secrets. His journey into the unknown had just begun, and his heart raced with excitement for the adventures that awaited.
 
